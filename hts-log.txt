@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 15 Oct 2023 07:07:18 at https://icgetei.in/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://icgetei.in/ -O1 "C:\My Web Sites\Amity University" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:07:36	Error: 	"Not Found" (404) at link https://icgetei.in/assets/css/main.css (from https://icgetei.in/)
+07:07:36	Error: 	"Not Found" (404) at link https://icgetei.in/assets/css/noscript.css (from https://icgetei.in/)
+07:08:22	Error: 	"Not Found" (404) at link https://icgetei.in/sdaset.html target= (from https://icgetei.in/picture_gallery_2022.html)
+07:08:22	Error: 	"Not Found" (404) at link https://icgetei.in/aiaia.html target= (from https://icgetei.in/sdaset_id.html)
+07:08:22	Error: 	"Not Found" (404) at link https://icgetei.in/sdaset.cfp.html (from https://icgetei.in/sdaset_contactus.html)
+07:08:22	Error: 	"Not Found" (404) at link https://icgetei.in/sdaset.rd.html (from https://icgetei.in/sdaset_contactus.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 4 seconds : 203 links scanned, 196 files written (26102495 bytes overall) [24646105 bytes received at 385095 bytes/sec], 1923546 bytes transferred using HTTP compression in 66 files, ratio 20%, 29.0 requests per connection
+(6 errors, 0 warnings, 0 messages)
